@@ -13,6 +13,7 @@ public class BrandDAO {
         entityManager = Connection.getInstance().getEntityManagerFactory().createEntityManager();
     }
 
+    //add new brand
     public boolean addbrand(Brand brand) {
         try {
             entityManager.getTransaction().begin();

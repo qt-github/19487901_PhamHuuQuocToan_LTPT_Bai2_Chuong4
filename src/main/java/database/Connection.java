@@ -8,7 +8,7 @@ public class Connection {
     private EntityManagerFactory entityManagerFactory;
 
     private Connection() {
-        entityManagerFactory = Persistence.createEntityManagerFactory("Chapter4_Excercise2");
+        entityManagerFactory = Persistence.createEntityManagerFactory("19487901_PhamHuuQuocToan");
     }
 
     public static Connection getInstance() {
