@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6c496c-8d1f-456b-9e72-95f275ea28b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/OrderDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ProductDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/OrderItemPK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/StockPK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Client/client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/BrandDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/BrandDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +91,7 @@
       <workItem from="1681051379413" duration="2371000" />
       <workItem from="1681053793524" duration="287000" />
       <workItem from="1681054216061" duration="2865000" />
+      <workItem from="1681191847458" duration="2484000" />
     </task>
     <servers />
   </component>

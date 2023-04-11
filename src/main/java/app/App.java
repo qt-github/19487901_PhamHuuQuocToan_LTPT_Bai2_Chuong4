@@ -9,9 +9,12 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.EntityTransaction;
 
+import java.io.IOException;
+import java.net.Socket;
+
 
 public class App {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 //        EntityManagerFactory emf = Connection.getInstance().getEntityManagerFactory();
 //        EntityManager em = emf.createEntityManager();
 //        EntityTransaction tr = em.getTransaction();
@@ -24,7 +27,7 @@ public class App {
 //            e.printStackTrace();
 //        }
         //Câu C.1
-        BrandDAO brandDAO = new BrandDAO();
+//        BrandDAO brandDAO = new BrandDAO();
         // Get brand by id
 //        Brand b = brandDAO.getBrandById(9);
 //        System.out.println(b);
@@ -51,6 +54,5 @@ public class App {
         //C.2 Tìm danh sách sản phẩm có giá cao nhất
 //        ProductDAO productDAO = new ProductDAO();
 //        productDAO.findProductWithMaxPrice();
-
     }
 }
